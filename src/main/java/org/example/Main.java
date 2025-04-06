@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Hello world!");
 //Desktop kod yazmaya başladı
  //laptop kendi kodlarını yazdı test
+        //desktop yeni kodlar azıldı
 
 
         
